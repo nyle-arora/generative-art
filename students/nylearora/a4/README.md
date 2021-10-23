@@ -1,0 +1,7 @@
+The GhostParticleSystem has a swarm of ghosts that are affected by a Wander Force, Border Force, and Drag. The user can modify the drag using the ghostDrag slider and the number of ghosts in the swarm with the ghostNumber slider. This system was inspired by  and used code from Professor Compton's BasicParticleSystem class. 
+
+The PumpkinParticleSystem is a swarm of pumpkins that are affected by a Wander Force, Mouse Attraction Force, Border Force, and Drag. The user can modify the Mouse Attraction Force by using the pumpkinMouseAttraction slider and the number of pumpkins in the swam with the pumpkinNumber slider. This system was inspired by and used code from Professor Compton's BasicParticleSystem class. 
+
+The SkullParticleSystem is swarm of skulls that are affected by other particles in the system (Boids style), with forces such as cohesion, alignment, thrust, and drag. The user can modify the cohesion with the skullCohesion slider and the number of skulls with the skullNumber slider. This system was inspired by and used code from Professor Compton's BoidParticleSystem and Boid classes. 
+
+The GhostParticleSystem, PumpkinParticleSystem, and the SkullsParticleSystem check boxes display visual debugging information when clicked in the form of arrows showing the forces acting on the particles in that system. 

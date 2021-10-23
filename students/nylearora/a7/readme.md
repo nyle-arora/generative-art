@@ -1,0 +1,1 @@
+Starter code comes from Professor Compton! This array of floats a simple implementation that manipulates triangles. Users can alter the height, width, color, rotation, and shear of the triangles on the screen. 
