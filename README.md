@@ -19,3 +19,11 @@ A7: Triangle Floats Array
 A9: Big Data Visualization
 
 A10: Virtual Costumes
+
+Tech stack: 
+
+- HTML
+- JavaScript
+- p5.js
+- VueJS
+- CSS
